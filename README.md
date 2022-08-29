@@ -53,7 +53,6 @@ To deploy this project:
 
 
 ## Deployed link of application
-## Github Link
 [The URL of the deployed application.]()
 
 [The URL of the GitHub repository.](https://github.com/noori36/DropsWin-Group-Project2)
