@@ -34,8 +34,13 @@ When i want to buy best deal sneakers from different website I could be able to 
 To deploy this project run, add your credentials to .env file and link it to your SQL database
 
 ```bash
-  npm install
-  npm start
+  1- npm install
+  2- Create a .env file (in root directory) with follwiing variables to include DB name and your own mysql username and  password. e.g.,
+            DB_NAME='YOUR DATABASE NAME'
+            DB_USER='USERNAME'
+            DB_PASSWORD='PASSWORD'
+  
+  3- npm start
 ```
 
 
