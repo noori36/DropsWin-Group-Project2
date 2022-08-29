@@ -27,24 +27,9 @@ To deploy this project:
 3- npm start
 ```
 
-
-## Screenshots
-
-![App Screenshot](https://raw.githubusercontent.com/jacobsousa/Group-Project-2/sufiyan-user-model/screenshots/Screenshot%20(122).png)
-
-![App Screenshot](https://raw.githubusercontent.com/jacobsousa/Group-Project-2/sufiyan-user-model/screenshots/Screenshot%20(123).png)
-
-![App Screenshot](https://raw.githubusercontent.com/jacobsousa/Group-Project-2/sufiyan-user-model/screenshots/Screenshot%20(125).png)
-
-![App Screenshot](https://raw.githubusercontent.com/jacobsousa/Group-Project-2/sufiyan-user-model/screenshots/Screenshot%20(126).png)
-
-![App Screenshot](https://raw.githubusercontent.com/jacobsousa/Group-Project-2/sufiyan-user-model/screenshots/Screenshot%20(127).png)
-
 ## Demo
 
 <br><img src="./screenshots/home.png" alt="home page" width="550"/>
-<br>
-<br><img src="./screenshots/Signup_login.png" alt="home page" width="550"/>
 <br>
 <br><img src="./screenshots/Signup.png" alt="home page" width="550"/>
 <br>
