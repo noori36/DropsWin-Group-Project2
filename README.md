@@ -1,18 +1,31 @@
 
 # DropsWin
 
-Dropswin is a E-Commerce website to buy sneakers from different website on the best possible deal. 
+DropsWin is a E-Commerce website to buy sneakers from a website on the best possible deal. It's a full-stack web application which is design and build using the MVC paradigm, server-side API, user authentication, and a database.
 
 
 ## User Story
-When i want to buy best deal sneakers from different website I could be able to do it from only one website, saving time
-## User Story
-When i want to buy best deal sneakers from different website I could be able to do it from only one website, saving time
-## Tech Stack
+AS A cosumer
+I WANT to explore the products from website and buy best deal sneakers online
+SO THAT I can save time and money.
 
-**Client:** Handlebars, HTML, CSS, Javascript
 
-**Server:** Node, Express, SQL, Sequelize
+## Deployment
+
+To deploy this project:
+
+```bash
+1- Add your credentials to .env file and link it to your SQL database.
+   Create a .env file (in root directory) with follwiing variables to include DB name and your own mysql username and  password. e.g.,
+            DB_NAME='YOUR DATABASE NAME'
+            DB_USER='USERNAME'
+            DB_PASSWORD='PASSWORD'
+            
+2- Run npm install
+  
+  
+3- npm start
+```
 
 
 ## Screenshots
@@ -28,15 +41,12 @@ When i want to buy best deal sneakers from different website I could be able to 
 ![App Screenshot](https://raw.githubusercontent.com/jacobsousa/Group-Project-2/sufiyan-user-model/screenshots/Screenshot%20(127).png)
 
 
+## Tech Stack
 
-## Deployment
+**Client:** Handlebars, HTML, CSS, Javascript
 
-To deploy this project run, add your credentials to .env file and link it to your SQL database
+**Server:** Node, Express, SQL, Sequelize
 
-```bash
-  npm install
-  npm start
-```
 
 
 ## Deployed link of application
