@@ -42,7 +42,7 @@ To deploy this project:
 
 ## Demo
 
-<br><img src="./screenshots/Screenshot/home.png" alt="screenshot of alert to confirm password lenght" width="550"/>
+<br><img src="/screenshots/Screenshot/home.png" alt="home page" width="550"/>
 <br>
 <br><img src="./Assets/images/Confirm-Uppercase.png" alt="screenshot of alert to confirm Uppercase letter" width="550"/>
 <br>
