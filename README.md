@@ -1,32 +1,13 @@
 
 # DropsWin
 
-Dropswin is a E-Commerce website to buy sneakers from different website on the best possible deal. 
+DropsWin is a E-Commerce website to buy sneakers from a website on the best possible deal. It's a full-stack web application which is design and build using the MVC paradigm, server-side API, user authentication, and a database.
 
 
 ## User Story
-When i want to buy best deal sneakers from different website I could be able to do it from only one website, saving time
-## User Story
-When i want to buy best deal sneakers from different website I could be able to do it from only one website, saving time
-## Tech Stack
-
-**Client:** Handlebars, HTML, CSS, Javascript
-
-**Server:** Node, Express, SQL, Sequelize
-
-
-## Screenshots
-
-![App Screenshot](https://raw.githubusercontent.com/jacobsousa/Group-Project-2/sufiyan-user-model/screenshots/Screenshot%20(122).png)
-
-![App Screenshot](https://raw.githubusercontent.com/jacobsousa/Group-Project-2/sufiyan-user-model/screenshots/Screenshot%20(123).png)
-
-![App Screenshot](https://raw.githubusercontent.com/jacobsousa/Group-Project-2/sufiyan-user-model/screenshots/Screenshot%20(125).png)
-
-![App Screenshot](https://raw.githubusercontent.com/jacobsousa/Group-Project-2/sufiyan-user-model/screenshots/Screenshot%20(126).png)
-
-![App Screenshot](https://raw.githubusercontent.com/jacobsousa/Group-Project-2/sufiyan-user-model/screenshots/Screenshot%20(127).png)
-
+AS A cosumer
+I WANT to explore the products from website and buy best deal sneakers online
+SO THAT I can save time and money.
 
 
 ## Deployment
@@ -45,6 +26,27 @@ To deploy this project:
   
 3- npm start
 ```
+
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/jacobsousa/Group-Project-2/sufiyan-user-model/screenshots/Screenshot%20(122).png)
+
+![App Screenshot](https://raw.githubusercontent.com/jacobsousa/Group-Project-2/sufiyan-user-model/screenshots/Screenshot%20(123).png)
+
+![App Screenshot](https://raw.githubusercontent.com/jacobsousa/Group-Project-2/sufiyan-user-model/screenshots/Screenshot%20(125).png)
+
+![App Screenshot](https://raw.githubusercontent.com/jacobsousa/Group-Project-2/sufiyan-user-model/screenshots/Screenshot%20(126).png)
+
+![App Screenshot](https://raw.githubusercontent.com/jacobsousa/Group-Project-2/sufiyan-user-model/screenshots/Screenshot%20(127).png)
+
+
+## Tech Stack
+
+**Client:** Handlebars, HTML, CSS, Javascript
+
+**Server:** Node, Express, SQL, Sequelize
+
 
 
 ## Deployed link of application
