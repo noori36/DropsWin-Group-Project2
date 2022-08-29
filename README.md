@@ -40,6 +40,20 @@ To deploy this project:
 
 ![App Screenshot](https://raw.githubusercontent.com/jacobsousa/Group-Project-2/sufiyan-user-model/screenshots/Screenshot%20(127).png)
 
+## Demo
+
+<br><img src="./screenshots/Screenshot/home.png" alt="screenshot of alert to confirm password lenght" width="550"/>
+<br>
+<br><img src="./Assets/images/Confirm-Uppercase.png" alt="screenshot of alert to confirm Uppercase letter" width="550"/>
+<br>
+<br><img src="./Assets/images/Confirm-Lowercase.png" alt="screenshot of alert to confirm lowercase letter" width="550"/>
+<br>confirm numeric value
+<br><img src="./Assets/images/Confirm-numericValue.png" alt="sscreenshot of alert to confirm numeric value" width="550"/>
+<br>confirm special character
+<br><img src="./Assets/images/Confirm-specialChar.png" alt="screenshot of alert to confirm special character" width="550"/>
+<br>Finall generated password
+<br><img src="./Assets/images/genratedpass.png" alt="screenshot of generated password" width="550"/>
+
 
 ## Tech Stack
 
@@ -51,6 +65,11 @@ To deploy this project:
 
 ## Deployed link of application
 ## Github Link
--
-## Acknowledgements
-- Modules
+[The URL of the deployed application.](https://noori36.github.io/PasswordGenerator/)
+
+[The URL of the GitHub repository.](https://github.com/noori36/PasswordGenerator)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
