@@ -6,7 +6,7 @@ DropsWin is a E-Commerce website to buy sneakers from a website on the best poss
 
 ## User Story
 AS A cosumer
-I WANT to explore the products from website and buy best deal sneakers online
+I WANT to explore the products from website and buy best deal sneakers online<br>
 SO THAT I can save time and money.
 
 
@@ -54,9 +54,9 @@ To deploy this project:
 
 ## Deployed link of application
 ## Github Link
-[The URL of the deployed application.](https://noori36.github.io/PasswordGenerator/)
+[The URL of the deployed application.]()
 
-[The URL of the GitHub repository.](https://github.com/noori36/PasswordGenerator)
+[The URL of the GitHub repository.](https://github.com/noori36/DropsWin-Group-Project2)
 
 
 ## License
