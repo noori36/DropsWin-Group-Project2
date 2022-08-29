@@ -31,16 +31,19 @@ When i want to buy best deal sneakers from different website I could be able to 
 
 ## Deployment
 
-To deploy this project run, add your credentials to .env file and link it to your SQL database
+To deploy this project:
 
 ```bash
-  1- npm install
-  2- Create a .env file (in root directory) with follwiing variables to include DB name and your own mysql username and  password. e.g.,
+1- Add your credentials to .env file and link it to your SQL database.
+   Create a .env file (in root directory) with follwiing variables to include DB name and your own mysql username and  password. e.g.,
             DB_NAME='YOUR DATABASE NAME'
             DB_USER='USERNAME'
             DB_PASSWORD='PASSWORD'
+            
+2- Run npm install
   
-  3- npm start
+  
+3- npm start
 ```
 
 
