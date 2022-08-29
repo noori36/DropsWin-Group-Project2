@@ -44,15 +44,19 @@ To deploy this project:
 
 <br><img src="./screenshots/home.png" alt="home page" width="550"/>
 <br>
-<br><img src="./Assets/images/Confirm-Uppercase.png" alt="screenshot of alert to confirm Uppercase letter" width="550"/>
+<br><img src="./screenshots/Signup_login.png" alt="home page" width="550"/>
 <br>
-<br><img src="./Assets/images/Confirm-Lowercase.png" alt="screenshot of alert to confirm lowercase letter" width="550"/>
-<br>confirm numeric value
-<br><img src="./Assets/images/Confirm-numericValue.png" alt="sscreenshot of alert to confirm numeric value" width="550"/>
+<br><img src="./screenshots/Signup.png" alt="home page" width="550"/>
+<br>
+<br><img src="./screenshots/login.png" alt="home page" width="550"/>
 <br>confirm special character
-<br><img src="./Assets/images/Confirm-specialChar.png" alt="screenshot of alert to confirm special character" width="550"/>
-<br>Finall generated password
-<br><img src="./Assets/images/genratedpass.png" alt="screenshot of generated password" width="550"/>
+<br><img src="./screenshots/mainpage_loggedin.png" alt="home page" width="550"/>
+<br>
+<br><img src="./screenshots/redirect.png" alt="home page" width="550"/>
+<br>
+<br><img src="./screenshots/nike.png" alt="home page" width="550"/>
+<br>
+<br><img src="./screenshots/contact.png" alt="home page" width="550"/>
 
 
 ## Tech Stack
